@@ -8,7 +8,7 @@ import { faLinkedIn } from '@fortawesome/free-brands-svg-icons';*/
 const Navbar = () => {
     return (
         <nav>
-            <img src="../Rectangle 90.png" className="profile-image" />
+            <img src="../images/Rectangle 90.png" alt="profile photo" className="profile-image" />
             <h1 className="profile-name">Gideon Boakye</h1>
             <p className="job-title">Frontend Developer</p>
             <p className="website"><a href="brown.website" target="_blank" rel="noreferrer">brown.website</a></p>
